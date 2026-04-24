@@ -212,4 +212,4 @@ GPTInterviewer/
 
 ## License
 
-MIT © 2025 Souvik Ghosh
+MIT © 2025 Soumen Maity
